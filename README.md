@@ -12,3 +12,7 @@ The audit follows the NIST Cybersecurity Framework (NIST CSF).
 
 ## Framework
 - NIST Cybersecurity Framework (CSF)
+
+## Disclaimer
+This project is based on a fictional scenario and is for educational purposes only.
+
