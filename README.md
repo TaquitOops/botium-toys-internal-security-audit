@@ -1,7 +1,5 @@
-# botium-toys-internal-security-audit
-Internal IT security audit based on the NIST Cybersecurity Framework (NIST CSF) for a fictional company.
-
 # Botium Toys – Internal Security Audit
+Internal IT security audit based on the NIST Cybersecurity Framework (NIST CSF) for a fictional company.
 
 ## Project Overview
 This project documents an internal IT security audit for Botium Toys, a fictional toy company.
